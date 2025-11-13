@@ -1,4 +1,4 @@
-import React from "react";
+﻿import React from "react";
 import styled from "styled-components";
 import type { CustomNodeProps } from ".";
 import useConfig from "../../../../../store/useConfig";
